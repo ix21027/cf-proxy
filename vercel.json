@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://atom-continued-retail-frequency.trycloudflare.com/$1"
+    }
+  ]
+}
