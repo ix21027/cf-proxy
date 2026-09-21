@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://atom-continued-retail-frequency.trycloudflare.com/$1"
+      "destination": "https://pupils-die-manufacturing-per.trycloudflare.com/$1"
     }
   ]
 }
